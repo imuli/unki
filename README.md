@@ -36,6 +36,10 @@ would be more amusing that actually useful.
 
 Can we actually get three bits per finger with a triangle of (hexagonal?) buttons?
 
+Initial experimentation on convenient (but sadly not NKRO) laptop keyboard suggests yes.
+It was only very slightly harder to go between combinatinos of three keys than combinations of two keys.
+Practice (and closer keys) would help both efforts.
+
 #### hands
 
 Is 15 bits (one hand, three bits per finger) enough, or do we need to use both hands?
